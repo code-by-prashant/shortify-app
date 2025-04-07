@@ -1,0 +1,9 @@
+com\shortify\dto\ShortenResponse.class
+com\shortify\model\ShortUrl.class
+com\shortify\utils\ShortCodeGenerator.class
+com\shortify\dto\ShortenRequest.class
+com\shortify\service\ShortUrlService.class
+com\shortify\controller\ShortUrlController.class
+com\shortify\repository\ShortUrlRepository.class
+com\shortify\ShortifyApplication.class
+com\shortify\config\CorsConfig.class

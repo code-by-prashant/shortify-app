@@ -1,0 +1,9 @@
+D:\user_interface_&_api_codebase\Backend\Shortify\src\main\java\com\shortify\config\CorsConfig.java
+D:\user_interface_&_api_codebase\Backend\Shortify\src\main\java\com\shortify\controller\ShortUrlController.java
+D:\user_interface_&_api_codebase\Backend\Shortify\src\main\java\com\shortify\dto\ShortenRequest.java
+D:\user_interface_&_api_codebase\Backend\Shortify\src\main\java\com\shortify\dto\ShortenResponse.java
+D:\user_interface_&_api_codebase\Backend\Shortify\src\main\java\com\shortify\model\ShortUrl.java
+D:\user_interface_&_api_codebase\Backend\Shortify\src\main\java\com\shortify\repository\ShortUrlRepository.java
+D:\user_interface_&_api_codebase\Backend\Shortify\src\main\java\com\shortify\service\ShortUrlService.java
+D:\user_interface_&_api_codebase\Backend\Shortify\src\main\java\com\shortify\ShortifyApplication.java
+D:\user_interface_&_api_codebase\Backend\Shortify\src\main\java\com\shortify\utils\ShortCodeGenerator.java
